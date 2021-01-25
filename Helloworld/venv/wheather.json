@@ -1,0 +1,2845 @@
+{
+    "coord": {
+        "lon": 79.8167,
+        "lat": 11.9333
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.96,
+        "feels_like": 299.41,
+        "temp_min": 299.96,
+        "temp_max": 299.96,
+        "pressure": 1009,
+        "humidity": 75,
+        "sea_level": 1009,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.5,
+        "deg": 53
+    },
+    "clouds": {
+        "all": 28
+    },
+    "dt": 1610534160,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499875,
+        "sunset": 1610541224
+    },
+    "timezone": 19800,
+    "id": 1259424,
+    "name": "Puducherry",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 79,
+        "lat": 16
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.46,
+        "feels_like": 297.88,
+        "temp_min": 298.46,
+        "temp_max": 298.46,
+        "pressure": 1009,
+        "humidity": 54,
+        "sea_level": 1009,
+        "grnd_level": 933
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.31,
+        "deg": 99
+    },
+    "clouds": {
+        "all": 92
+    },
+    "dt": 1610534565,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500476,
+        "sunset": 1610541015
+    },
+    "timezone": 19800,
+    "id": 1278629,
+    "name": "Andhra Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 93,
+        "lat": 26
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 293.24,
+        "feels_like": 293.19,
+        "temp_min": 293.24,
+        "temp_max": 293.24,
+        "pressure": 1012,
+        "humidity": 68,
+        "sea_level": 1012,
+        "grnd_level": 1003
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.87,
+        "deg": 359
+    },
+    "clouds": {
+        "all": 7
+    },
+    "dt": 1610534316,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610498199,
+        "sunset": 1610536571
+    },
+    "timezone": 19800,
+    "id": 1278253,
+    "name": "Assam",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 21.9167,
+        "lat": 47.15
+    },
+    "weather": [
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50d"
+        },
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 273.15,
+        "feels_like": 268.28,
+        "temp_min": 273.15,
+        "temp_max": 273.15,
+        "pressure": 1010,
+        "humidity": 100
+    },
+    "visibility": 2900,
+    "wind": {
+        "speed": 4.12,
+        "deg": 260
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1610534566,
+    "sys": {
+        "type": 1,
+        "id": 6917,
+        "country": "RO",
+        "sunrise": 1610518518,
+        "sunset": 1610550380
+    },
+    "timezone": 7200,
+    "id": 684882,
+    "name": "Biharia",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 82,
+        "lat": 21.5
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.96,
+        "feels_like": 297.2,
+        "temp_min": 299.96,
+        "temp_max": 299.96,
+        "pressure": 1010,
+        "humidity": 24,
+        "sea_level": 1010,
+        "grnd_level": 980
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.2,
+        "deg": 333
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1610534566,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500333,
+        "sunset": 1610539718
+    },
+    "timezone": 19800,
+    "id": 1444364,
+    "name": "Chhattisgarh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 74.0833,
+        "lat": 15.3333
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 308.15,
+        "feels_like": 307.16,
+        "temp_min": 308.15,
+        "temp_max": 308.15,
+        "pressure": 1007,
+        "humidity": 26
+    },
+    "visibility": 6000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 270
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1610534380,
+    "sys": {
+        "type": 1,
+        "id": 9233,
+        "country": "IN",
+        "sunrise": 1610501589,
+        "sunset": 1610542263
+    },
+    "timezone": 19800,
+    "id": 1271157,
+    "name": "Goa",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 72,
+        "lat": 23
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.15,
+        "feels_like": 297.03,
+        "temp_min": 300.15,
+        "temp_max": 300.15,
+        "pressure": 1011,
+        "humidity": 29
+    },
+    "visibility": 6000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 40
+    },
+    "clouds": {
+        "all": 76
+    },
+    "dt": 1610534567,
+    "sys": {
+        "type": 1,
+        "id": 9049,
+        "country": "IN",
+        "sunrise": 1610502897,
+        "sunset": 1610541954
+    },
+    "timezone": 19800,
+    "id": 1270770,
+    "name": "Gujarat",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76,
+        "lat": 29
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.04,
+        "feels_like": 290,
+        "temp_min": 294.04,
+        "temp_max": 294.04,
+        "pressure": 1013,
+        "humidity": 24,
+        "sea_level": 1013,
+        "grnd_level": 988
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.85,
+        "deg": 281
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534408,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502639,
+        "sunset": 1610540293
+    },
+    "timezone": 19800,
+    "id": 1270260,
+    "name": "Haryana",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 78,
+        "lat": 31
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 288.63,
+        "feels_like": 285.67,
+        "temp_min": 288.63,
+        "temp_max": 288.63,
+        "pressure": 1014,
+        "humidity": 33,
+        "sea_level": 1014,
+        "grnd_level": 840
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.24,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534567,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502411,
+        "sunset": 1610539560
+    },
+    "timezone": 19800,
+    "id": 1270101,
+    "name": "Himachal Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 77,
+        "lat": 33
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 251.15,
+        "feels_like": 245.37,
+        "temp_min": 251.15,
+        "temp_max": 251.15,
+        "pressure": 1026,
+        "humidity": 69,
+        "sea_level": 1026,
+        "grnd_level": 514
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.89,
+        "deg": 50
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534567,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502915,
+        "sunset": 1610539536
+    },
+    "timezone": 19800,
+    "id": 1269320,
+    "name": "Jammu and Kashmir",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 85.5,
+        "lat": 23.75
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 296.15,
+        "feels_like": 293.4,
+        "temp_min": 296.15,
+        "temp_max": 296.15,
+        "pressure": 1013,
+        "humidity": 33
+    },
+    "visibility": 4500,
+    "wind": {
+        "speed": 2.57,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 2
+    },
+    "dt": 1610534535,
+    "sys": {
+        "type": 1,
+        "id": 9131,
+        "country": "IN",
+        "sunrise": 1610499741,
+        "sunset": 1610538629
+    },
+    "timezone": 19800,
+    "id": 1444365,
+    "name": "Jharkhand",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76,
+        "lat": 13.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.33,
+        "feels_like": 296.01,
+        "temp_min": 300.33,
+        "temp_max": 300.33,
+        "pressure": 1008,
+        "humidity": 33,
+        "sea_level": 1008,
+        "grnd_level": 924
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.04,
+        "deg": 77
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534568,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500945,
+        "sunset": 1610541986
+    },
+    "timezone": 19800,
+    "id": 1267701,
+    "name": "Karnataka",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76.5,
+        "lat": 10
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 301.15,
+        "feels_like": 303.83,
+        "temp_min": 301.15,
+        "temp_max": 301.15,
+        "pressure": 1007,
+        "humidity": 74
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 120
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1610534292,
+    "sys": {
+        "type": 1,
+        "id": 9211,
+        "country": "IN",
+        "sunrise": 1610500482,
+        "sunset": 1610542209
+    },
+    "timezone": 19800,
+    "id": 1267254,
+    "name": "Kerala",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 78.5,
+        "lat": 23.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 296.57,
+        "feels_like": 292.38,
+        "temp_min": 296.57,
+        "temp_max": 296.57,
+        "pressure": 1012,
+        "humidity": 19,
+        "sea_level": 1012,
+        "grnd_level": 946
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.85,
+        "deg": 15
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534568,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610501393,
+        "sunset": 1610540338
+    },
+    "timezone": 19800,
+    "id": 1264542,
+    "name": "Madhya Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 75,
+        "lat": 19.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 302.97,
+        "feels_like": 300.98,
+        "temp_min": 302.97,
+        "temp_max": 302.97,
+        "pressure": 1009,
+        "humidity": 31,
+        "sea_level": 1009,
+        "grnd_level": 952
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.25,
+        "deg": 345
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534569,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610501799,
+        "sunset": 1610541613
+    },
+    "timezone": 19800,
+    "id": 1264418,
+    "name": "Maharashtra",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 94,
+        "lat": 25
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 289.15,
+        "feels_like": 283.52,
+        "temp_min": 289.15,
+        "temp_max": 289.15,
+        "pressure": 1014,
+        "humidity": 39
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 5.66,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1610534569,
+    "sys": {
+        "type": 1,
+        "id": 9119,
+        "country": "IN",
+        "sunrise": 1610497843,
+        "sunset": 1610536446
+    },
+    "timezone": 19800,
+    "id": 1263706,
+    "name": "State of Manipur",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 91.3333,
+        "lat": 25.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 283.92,
+        "feels_like": 281.3,
+        "temp_min": 283.92,
+        "temp_max": 283.92,
+        "pressure": 1013,
+        "humidity": 56,
+        "sea_level": 1013,
+        "grnd_level": 847
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.44,
+        "deg": 224
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534569,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610498540,
+        "sunset": 1610537029
+    },
+    "timezone": 19800,
+    "id": 1263207,
+    "name": "State of Megh\u0101laya",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 93,
+        "lat": 23
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 288.1,
+        "feels_like": 286.46,
+        "temp_min": 288.1,
+        "temp_max": 288.1,
+        "pressure": 1011,
+        "humidity": 53,
+        "sea_level": 1011,
+        "grnd_level": 891
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.87,
+        "deg": 283
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534559,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610497857,
+        "sunset": 1610536912
+    },
+    "timezone": 19800,
+    "id": 1262963,
+    "name": "State of Mizoram",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 94.25,
+        "lat": 26
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 285.84,
+        "feels_like": 285.54,
+        "temp_min": 285.84,
+        "temp_max": 285.84,
+        "pressure": 1012,
+        "humidity": 86,
+        "sea_level": 1012,
+        "grnd_level": 889
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.65,
+        "deg": 327
+    },
+    "clouds": {
+        "all": 5
+    },
+    "dt": 1610534570,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610497899,
+        "sunset": 1610536270
+    },
+    "timezone": 19800,
+    "id": 1262271,
+    "name": "Nagaland",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 84.4167,
+        "lat": 20.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.05,
+        "feels_like": 295.93,
+        "temp_min": 299.05,
+        "temp_max": 299.05,
+        "pressure": 1010,
+        "humidity": 30,
+        "sea_level": 1010,
+        "grnd_level": 952
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.46,
+        "deg": 325
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534570,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499645,
+        "sunset": 1610539245
+    },
+    "timezone": 19800,
+    "id": 1261029,
+    "name": "Odisha",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 72.3198,
+        "lat": 30.8602
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.18,
+        "feels_like": 294.1,
+        "temp_min": 297.18,
+        "temp_max": 297.18,
+        "pressure": 1013,
+        "humidity": 15,
+        "sea_level": 1013,
+        "grnd_level": 996
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.79,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534570,
+    "sys": {
+        "country": "PK",
+        "sunrise": 1610503756,
+        "sunset": 1610540942
+    },
+    "timezone": 18000,
+    "id": 1167710,
+    "name": "Punjab",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 74,
+        "lat": 26
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.14,
+        "feels_like": 293.14,
+        "temp_min": 297.14,
+        "temp_max": 297.14,
+        "pressure": 1012,
+        "humidity": 17,
+        "sea_level": 1012,
+        "grnd_level": 974
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.38,
+        "deg": 75
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534570,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502759,
+        "sunset": 1610541133
+    },
+    "timezone": 19800,
+    "id": 1258899,
+    "name": "Rajasthan",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 88.5,
+        "lat": 27.75
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 263.74,
+        "feels_like": 259.93,
+        "temp_min": 263.74,
+        "temp_max": 263.74,
+        "pressure": 1006,
+        "humidity": 100,
+        "sea_level": 1006,
+        "grnd_level": 542
+    },
+    "visibility": 137,
+    "wind": {
+        "speed": 1.14,
+        "deg": 139
+    },
+    "clouds": {
+        "all": 53
+    },
+    "dt": 1610534571,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499486,
+        "sunset": 1610537444
+    },
+    "timezone": 19800,
+    "id": 1256312,
+    "name": "State of Sikkim",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 78,
+        "lat": 11
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.29,
+        "feels_like": 302.19,
+        "temp_min": 300.29,
+        "temp_max": 300.29,
+        "pressure": 1009,
+        "humidity": 72,
+        "sea_level": 1009,
+        "grnd_level": 989
+    },
+    "visibility": 8610,
+    "wind": {
+        "speed": 3.73,
+        "deg": 104
+    },
+    "rain": {
+        "1h": 1.88
+    },
+    "clouds": {
+        "all": 78
+    },
+    "dt": 1610534571,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500220,
+        "sunset": 1610541751
+    },
+    "timezone": 19800,
+    "id": 1255053,
+    "name": "Tamil Nadu",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 92,
+        "lat": 24
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.15,
+        "feels_like": 295.05,
+        "temp_min": 294.15,
+        "temp_max": 294.15,
+        "pressure": 1013,
+        "humidity": 73
+    },
+    "visibility": 3000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1610534571,
+    "sys": {
+        "type": 1,
+        "id": 9122,
+        "country": "IN",
+        "sunrise": 1610498209,
+        "sunset": 1610537040
+    },
+    "timezone": 19800,
+    "id": 1254169,
+    "name": "State of Tripura",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 80.75,
+        "lat": 27.25
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 289.15,
+        "feels_like": 288.32,
+        "temp_min": 289.15,
+        "temp_max": 289.15,
+        "pressure": 1013,
+        "humidity": 77
+    },
+    "visibility": 1500,
+    "wind": {
+        "speed": 2.06,
+        "deg": 280
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534572,
+    "sys": {
+        "type": 1,
+        "id": 9176,
+        "country": "IN",
+        "sunrise": 1610501286,
+        "sunset": 1610539365
+    },
+    "timezone": 19800,
+    "id": 1253626,
+    "name": "Uttar Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 79.25,
+        "lat": 30.25
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.22,
+        "feels_like": 290.46,
+        "temp_min": 294.22,
+        "temp_max": 294.22,
+        "pressure": 1014,
+        "humidity": 20,
+        "sea_level": 1014,
+        "grnd_level": 907
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.01,
+        "deg": 274
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534572,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502015,
+        "sunset": 1610539356
+    },
+    "timezone": 19800,
+    "id": 1444366,
+    "name": "Uttarakhand",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 88,
+        "lat": 24
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.21,
+        "feels_like": 294.38,
+        "temp_min": 297.21,
+        "temp_max": 297.21,
+        "pressure": 1010,
+        "humidity": 24,
+        "sea_level": 1010,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.7,
+        "deg": 268
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534572,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499169,
+        "sunset": 1610538001
+    },
+    "timezone": 19800,
+    "id": 1252881,
+    "name": "West Bengal",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 92.6752,
+        "lat": 11.7007
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.98,
+        "feels_like": 299.09,
+        "temp_min": 298.98,
+        "temp_max": 298.98,
+        "pressure": 1009,
+        "humidity": 80,
+        "sea_level": 1009,
+        "grnd_level": 1000
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.64,
+        "deg": 85
+    },
+    "rain": {
+        "1h": 0.15
+    },
+    "clouds": {
+        "all": 39
+    },
+    "dt": 1610534572,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610496765,
+        "sunset": 1610538160
+    },
+    "timezone": 19800,
+    "id": 1278647,
+    "name": "Andaman and Nicobar Islands",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76.7933,
+        "lat": 30.7343
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.03,
+        "feels_like": 286.21,
+        "temp_min": 291.03,
+        "temp_max": 291.03,
+        "pressure": 1011,
+        "humidity": 38,
+        "sea_level": 1011,
+        "grnd_level": 971
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.83,
+        "deg": 297
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534338,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502666,
+        "sunset": 1610539884
+    },
+    "timezone": 19800,
+    "id": 1274746,
+    "name": "Chandigarh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 73.0333,
+        "lat": 20.1667
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 304.01,
+        "feels_like": 301.32,
+        "temp_min": 304.01,
+        "temp_max": 304.01,
+        "pressure": 1010,
+        "humidity": 32,
+        "sea_level": 1010,
+        "grnd_level": 1001
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.83,
+        "deg": 315
+    },
+    "clouds": {
+        "all": 51
+    },
+    "dt": 1610534573,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502341,
+        "sunset": 1610542014
+    },
+    "timezone": 19800,
+    "id": 1273726,
+    "name": "Dadra and Nagar Haveli",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 72.87,
+        "lat": 20.4
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.98,
+        "feels_like": 298.63,
+        "temp_min": 300.98,
+        "temp_max": 300.98,
+        "pressure": 1010,
+        "humidity": 45,
+        "sea_level": 1010,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.56,
+        "deg": 326
+    },
+    "clouds": {
+        "all": 25
+    },
+    "dt": 1610534573,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502406,
+        "sunset": 1610542028
+    },
+    "timezone": 19800,
+    "id": 1271155,
+    "name": "Daman and Diu",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 77.25,
+        "lat": 28.75
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 293.27,
+        "feels_like": 288.84,
+        "temp_min": 293.27,
+        "temp_max": 293.27,
+        "pressure": 1012,
+        "humidity": 24,
+        "sea_level": 1012,
+        "grnd_level": 988
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.27,
+        "deg": 296
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610534573,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502308,
+        "sunset": 1610540023
+    },
+    "timezone": 19800,
+    "id": 1273293,
+    "name": "National Capital Territory of Delhi",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 79.8167,
+        "lat": 11.9333
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.96,
+        "feels_like": 299.41,
+        "temp_min": 299.96,
+        "temp_max": 299.96,
+        "pressure": 1009,
+        "humidity": 75,
+        "sea_level": 1009,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.5,
+        "deg": 53
+    },
+    "clouds": {
+        "all": 28
+    },
+    "dt": 1610534160,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499875,
+        "sunset": 1610541224
+    },
+    "timezone": 19800,
+    "id": 1259424,
+    "name": "Puducherry",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 79,
+        "lat": 16
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.46,
+        "feels_like": 297.88,
+        "temp_min": 298.46,
+        "temp_max": 298.46,
+        "pressure": 1009,
+        "humidity": 54,
+        "sea_level": 1009,
+        "grnd_level": 933
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.31,
+        "deg": 99
+    },
+    "clouds": {
+        "all": 92
+    },
+    "dt": 1610535987,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500476,
+        "sunset": 1610541015
+    },
+    "timezone": 19800,
+    "id": 1278629,
+    "name": "Andhra Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 93,
+        "lat": 26
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 293.24,
+        "feels_like": 293.19,
+        "temp_min": 293.24,
+        "temp_max": 293.24,
+        "pressure": 1012,
+        "humidity": 68,
+        "sea_level": 1012,
+        "grnd_level": 1003
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.87,
+        "deg": 359
+    },
+    "clouds": {
+        "all": 7
+    },
+    "dt": 1610536023,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610498199,
+        "sunset": 1610536571
+    },
+    "timezone": 19800,
+    "id": 1278253,
+    "name": "Assam",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 21.9167,
+        "lat": 47.15
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13d"
+        },
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 273.15,
+        "feels_like": 268.28,
+        "temp_min": 273.15,
+        "temp_max": 273.15,
+        "pressure": 1010,
+        "humidity": 100
+    },
+    "visibility": 2900,
+    "wind": {
+        "speed": 4.12,
+        "deg": 260
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1610536067,
+    "sys": {
+        "type": 1,
+        "id": 6917,
+        "country": "RO",
+        "sunrise": 1610518518,
+        "sunset": 1610550380
+    },
+    "timezone": 7200,
+    "id": 684882,
+    "name": "Biharia",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 82,
+        "lat": 21.5
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.96,
+        "feels_like": 297.2,
+        "temp_min": 299.96,
+        "temp_max": 299.96,
+        "pressure": 1010,
+        "humidity": 24,
+        "sea_level": 1010,
+        "grnd_level": 980
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.2,
+        "deg": 333
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1610536067,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500333,
+        "sunset": 1610539718
+    },
+    "timezone": 19800,
+    "id": 1444364,
+    "name": "Chhattisgarh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 74.0833,
+        "lat": 15.3333
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 308.15,
+        "feels_like": 307.16,
+        "temp_min": 308.15,
+        "temp_max": 308.15,
+        "pressure": 1007,
+        "humidity": 26
+    },
+    "visibility": 6000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 270
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1610535538,
+    "sys": {
+        "type": 1,
+        "id": 9233,
+        "country": "IN",
+        "sunrise": 1610501589,
+        "sunset": 1610542263
+    },
+    "timezone": 19800,
+    "id": 1271157,
+    "name": "Goa",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 72,
+        "lat": 23
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.15,
+        "feels_like": 296.06,
+        "temp_min": 299.15,
+        "temp_max": 299.15,
+        "pressure": 1011,
+        "humidity": 31
+    },
+    "visibility": 6000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 50
+    },
+    "clouds": {
+        "all": 76
+    },
+    "dt": 1610536068,
+    "sys": {
+        "type": 1,
+        "id": 9049,
+        "country": "IN",
+        "sunrise": 1610502897,
+        "sunset": 1610541954
+    },
+    "timezone": 19800,
+    "id": 1270770,
+    "name": "Gujarat",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76,
+        "lat": 29
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.04,
+        "feels_like": 290,
+        "temp_min": 294.04,
+        "temp_max": 294.04,
+        "pressure": 1013,
+        "humidity": 24,
+        "sea_level": 1013,
+        "grnd_level": 988
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.85,
+        "deg": 281
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610535930,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502639,
+        "sunset": 1610540293
+    },
+    "timezone": 19800,
+    "id": 1270260,
+    "name": "Haryana",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 78,
+        "lat": 31
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 288.63,
+        "feels_like": 285.67,
+        "temp_min": 288.63,
+        "temp_max": 288.63,
+        "pressure": 1014,
+        "humidity": 33,
+        "sea_level": 1014,
+        "grnd_level": 840
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.24,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536068,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502411,
+        "sunset": 1610539560
+    },
+    "timezone": 19800,
+    "id": 1270101,
+    "name": "Himachal Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 77,
+        "lat": 33
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 251.15,
+        "feels_like": 245.37,
+        "temp_min": 251.15,
+        "temp_max": 251.15,
+        "pressure": 1026,
+        "humidity": 69,
+        "sea_level": 1026,
+        "grnd_level": 514
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.89,
+        "deg": 50
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536068,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502915,
+        "sunset": 1610539536
+    },
+    "timezone": 19800,
+    "id": 1269320,
+    "name": "Jammu and Kashmir",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 85.5,
+        "lat": 23.75
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 296.15,
+        "feels_like": 293.4,
+        "temp_min": 296.15,
+        "temp_max": 296.15,
+        "pressure": 1013,
+        "humidity": 33
+    },
+    "visibility": 4500,
+    "wind": {
+        "speed": 2.57,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 2
+    },
+    "dt": 1610536069,
+    "sys": {
+        "type": 1,
+        "id": 9131,
+        "country": "IN",
+        "sunrise": 1610499741,
+        "sunset": 1610538629
+    },
+    "timezone": 19800,
+    "id": 1444365,
+    "name": "Jharkhand",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76,
+        "lat": 13.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.33,
+        "feels_like": 296.01,
+        "temp_min": 300.33,
+        "temp_max": 300.33,
+        "pressure": 1008,
+        "humidity": 33,
+        "sea_level": 1008,
+        "grnd_level": 924
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.04,
+        "deg": 77
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536069,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500945,
+        "sunset": 1610541986
+    },
+    "timezone": 19800,
+    "id": 1267701,
+    "name": "Karnataka",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76.5,
+        "lat": 10
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        },
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 302.15,
+        "feels_like": 305.93,
+        "temp_min": 302.15,
+        "temp_max": 302.15,
+        "pressure": 1007,
+        "humidity": 70
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 130
+    },
+    "rain": {
+        "1h": 0.92
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1610536069,
+    "sys": {
+        "type": 1,
+        "id": 9211,
+        "country": "IN",
+        "sunrise": 1610500482,
+        "sunset": 1610542209
+    },
+    "timezone": 19800,
+    "id": 1267254,
+    "name": "Kerala",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 78.5,
+        "lat": 23.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 296.57,
+        "feels_like": 292.38,
+        "temp_min": 296.57,
+        "temp_max": 296.57,
+        "pressure": 1012,
+        "humidity": 19,
+        "sea_level": 1012,
+        "grnd_level": 946
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.85,
+        "deg": 15
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536069,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610501393,
+        "sunset": 1610540338
+    },
+    "timezone": 19800,
+    "id": 1264542,
+    "name": "Madhya Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 75,
+        "lat": 19.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 302.97,
+        "feels_like": 300.98,
+        "temp_min": 302.97,
+        "temp_max": 302.97,
+        "pressure": 1009,
+        "humidity": 31,
+        "sea_level": 1009,
+        "grnd_level": 952
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.25,
+        "deg": 345
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536070,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610501799,
+        "sunset": 1610541613
+    },
+    "timezone": 19800,
+    "id": 1264418,
+    "name": "Maharashtra",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 94,
+        "lat": 25
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 289.15,
+        "feels_like": 284.6,
+        "temp_min": 289.15,
+        "temp_max": 289.15,
+        "pressure": 1014,
+        "humidity": 39
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 210
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1610536070,
+    "sys": {
+        "type": 1,
+        "id": 9119,
+        "country": "IN",
+        "sunrise": 1610497843,
+        "sunset": 1610536446
+    },
+    "timezone": 19800,
+    "id": 1263706,
+    "name": "State of Manipur",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 91.3333,
+        "lat": 25.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 283.92,
+        "feels_like": 281.3,
+        "temp_min": 283.92,
+        "temp_max": 283.92,
+        "pressure": 1013,
+        "humidity": 56,
+        "sea_level": 1013,
+        "grnd_level": 847
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.44,
+        "deg": 224
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536070,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610498540,
+        "sunset": 1610537029
+    },
+    "timezone": 19800,
+    "id": 1263207,
+    "name": "State of Megh\u0101laya",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 93,
+        "lat": 23
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 288.1,
+        "feels_like": 286.46,
+        "temp_min": 288.1,
+        "temp_max": 288.1,
+        "pressure": 1011,
+        "humidity": 53,
+        "sea_level": 1011,
+        "grnd_level": 891
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.87,
+        "deg": 283
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536070,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610497857,
+        "sunset": 1610536912
+    },
+    "timezone": 19800,
+    "id": 1262963,
+    "name": "State of Mizoram",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 94.25,
+        "lat": 26
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 285.84,
+        "feels_like": 285.54,
+        "temp_min": 285.84,
+        "temp_max": 285.84,
+        "pressure": 1012,
+        "humidity": 86,
+        "sea_level": 1012,
+        "grnd_level": 889
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.65,
+        "deg": 327
+    },
+    "clouds": {
+        "all": 5
+    },
+    "dt": 1610536071,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610497899,
+        "sunset": 1610536270
+    },
+    "timezone": 19800,
+    "id": 1262271,
+    "name": "Nagaland",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 84.4167,
+        "lat": 20.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.05,
+        "feels_like": 295.93,
+        "temp_min": 299.05,
+        "temp_max": 299.05,
+        "pressure": 1010,
+        "humidity": 30,
+        "sea_level": 1010,
+        "grnd_level": 952
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.46,
+        "deg": 325
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536071,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499645,
+        "sunset": 1610539245
+    },
+    "timezone": 19800,
+    "id": 1261029,
+    "name": "Odisha",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 72.3198,
+        "lat": 30.8602
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.18,
+        "feels_like": 294.1,
+        "temp_min": 297.18,
+        "temp_max": 297.18,
+        "pressure": 1013,
+        "humidity": 15,
+        "sea_level": 1013,
+        "grnd_level": 996
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.79,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610535782,
+    "sys": {
+        "country": "PK",
+        "sunrise": 1610503756,
+        "sunset": 1610540942
+    },
+    "timezone": 18000,
+    "id": 1167710,
+    "name": "Punjab",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 74,
+        "lat": 26
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.14,
+        "feels_like": 293.14,
+        "temp_min": 297.14,
+        "temp_max": 297.14,
+        "pressure": 1012,
+        "humidity": 17,
+        "sea_level": 1012,
+        "grnd_level": 974
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.38,
+        "deg": 75
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610535869,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502759,
+        "sunset": 1610541133
+    },
+    "timezone": 19800,
+    "id": 1258899,
+    "name": "Rajasthan",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 88.5,
+        "lat": 27.75
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 263.74,
+        "feels_like": 259.93,
+        "temp_min": 263.74,
+        "temp_max": 263.74,
+        "pressure": 1006,
+        "humidity": 100,
+        "sea_level": 1006,
+        "grnd_level": 542
+    },
+    "visibility": 137,
+    "wind": {
+        "speed": 1.14,
+        "deg": 139
+    },
+    "clouds": {
+        "all": 53
+    },
+    "dt": 1610536072,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499486,
+        "sunset": 1610537444
+    },
+    "timezone": 19800,
+    "id": 1256312,
+    "name": "State of Sikkim",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 78,
+        "lat": 11
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.29,
+        "feels_like": 302.19,
+        "temp_min": 300.29,
+        "temp_max": 300.29,
+        "pressure": 1009,
+        "humidity": 72,
+        "sea_level": 1009,
+        "grnd_level": 989
+    },
+    "visibility": 8610,
+    "wind": {
+        "speed": 3.73,
+        "deg": 104
+    },
+    "clouds": {
+        "all": 78
+    },
+    "dt": 1610536072,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610500220,
+        "sunset": 1610541751
+    },
+    "timezone": 19800,
+    "id": 1255053,
+    "name": "Tamil Nadu",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 92,
+        "lat": 24
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.15,
+        "feels_like": 295.05,
+        "temp_min": 294.15,
+        "temp_max": 294.15,
+        "pressure": 1013,
+        "humidity": 73
+    },
+    "visibility": 3000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1610536072,
+    "sys": {
+        "type": 1,
+        "id": 9122,
+        "country": "IN",
+        "sunrise": 1610498209,
+        "sunset": 1610537040
+    },
+    "timezone": 19800,
+    "id": 1254169,
+    "name": "State of Tripura",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 80.75,
+        "lat": 27.25
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 289.15,
+        "feels_like": 287.96,
+        "temp_min": 289.15,
+        "temp_max": 289.15,
+        "pressure": 1013,
+        "humidity": 77
+    },
+    "visibility": 1500,
+    "wind": {
+        "speed": 2.57,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610535858,
+    "sys": {
+        "type": 1,
+        "id": 9176,
+        "country": "IN",
+        "sunrise": 1610501286,
+        "sunset": 1610539365
+    },
+    "timezone": 19800,
+    "id": 1253626,
+    "name": "Uttar Pradesh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 79.25,
+        "lat": 30.25
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.22,
+        "feels_like": 290.46,
+        "temp_min": 294.22,
+        "temp_max": 294.22,
+        "pressure": 1014,
+        "humidity": 20,
+        "sea_level": 1014,
+        "grnd_level": 907
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.01,
+        "deg": 274
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536073,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502015,
+        "sunset": 1610539356
+    },
+    "timezone": 19800,
+    "id": 1444366,
+    "name": "Uttarakhand",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 88,
+        "lat": 24
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.21,
+        "feels_like": 294.38,
+        "temp_min": 297.21,
+        "temp_max": 297.21,
+        "pressure": 1010,
+        "humidity": 24,
+        "sea_level": 1010,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.7,
+        "deg": 268
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536073,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499169,
+        "sunset": 1610538001
+    },
+    "timezone": 19800,
+    "id": 1252881,
+    "name": "West Bengal",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 92.6752,
+        "lat": 11.7007
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.98,
+        "feels_like": 299.09,
+        "temp_min": 298.98,
+        "temp_max": 298.98,
+        "pressure": 1009,
+        "humidity": 80,
+        "sea_level": 1009,
+        "grnd_level": 1000
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.64,
+        "deg": 85
+    },
+    "rain": {
+        "1h": 0.15
+    },
+    "clouds": {
+        "all": 39
+    },
+    "dt": 1610536073,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610496765,
+        "sunset": 1610538160
+    },
+    "timezone": 19800,
+    "id": 1278647,
+    "name": "Andaman and Nicobar Islands",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 76.7933,
+        "lat": 30.7343
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.03,
+        "feels_like": 286.21,
+        "temp_min": 291.03,
+        "temp_max": 291.03,
+        "pressure": 1011,
+        "humidity": 38,
+        "sea_level": 1011,
+        "grnd_level": 971
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.83,
+        "deg": 297
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610535811,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502666,
+        "sunset": 1610539884
+    },
+    "timezone": 19800,
+    "id": 1274746,
+    "name": "Chandigarh",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 73.0333,
+        "lat": 20.1667
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 304.01,
+        "feels_like": 301.32,
+        "temp_min": 304.01,
+        "temp_max": 304.01,
+        "pressure": 1010,
+        "humidity": 32,
+        "sea_level": 1010,
+        "grnd_level": 1001
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.83,
+        "deg": 315
+    },
+    "clouds": {
+        "all": 51
+    },
+    "dt": 1610536074,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502341,
+        "sunset": 1610542014
+    },
+    "timezone": 19800,
+    "id": 1273726,
+    "name": "Dadra and Nagar Haveli",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 72.87,
+        "lat": 20.4
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.98,
+        "feels_like": 298.63,
+        "temp_min": 300.98,
+        "temp_max": 300.98,
+        "pressure": 1010,
+        "humidity": 45,
+        "sea_level": 1010,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.56,
+        "deg": 326
+    },
+    "clouds": {
+        "all": 25
+    },
+    "dt": 1610536074,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610502406,
+        "sunset": 1610542028
+    },
+    "timezone": 19800,
+    "id": 1271155,
+    "name": "Daman and Diu",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 77.25,
+        "lat": 28.75
+    },
+    "weather": [
+        {
+            "id": 711,
+            "main": "Smoke",
+            "description": "smoke",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 288.15,
+        "feels_like": 285.61,
+        "temp_min": 288.15,
+        "temp_max": 288.15,
+        "pressure": 1014,
+        "humidity": 58
+    },
+    "visibility": 1500,
+    "wind": {
+        "speed": 2.57,
+        "deg": 290
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1610536075,
+    "sys": {
+        "type": 1,
+        "id": 9165,
+        "country": "IN",
+        "sunrise": 1610502308,
+        "sunset": 1610540023
+    },
+    "timezone": 19800,
+    "id": 1273293,
+    "name": "National Capital Territory of Delhi",
+    "cod": 200
+}{
+    "coord": {
+        "lon": 79.8167,
+        "lat": 11.9333
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.96,
+        "feels_like": 299.41,
+        "temp_min": 299.96,
+        "temp_max": 299.96,
+        "pressure": 1009,
+        "humidity": 75,
+        "sea_level": 1009,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.5,
+        "deg": 53
+    },
+    "clouds": {
+        "all": 28
+    },
+    "dt": 1610535777,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1610499875,
+        "sunset": 1610541224
+    },
+    "timezone": 19800,
+    "id": 1259424,
+    "name": "Puducherry",
+    "cod": 200
+}
